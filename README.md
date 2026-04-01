@@ -16,5 +16,5 @@
 - Problem Solving
 
 ## Connect with me
-LinkedIn: https://www.linkedin.com/in/sahana-kabothu-236979332/## Hi there 👋
+LinkedIn: https://www.linkedin.com/in/sahana-kabothu-236979332/ 
 
