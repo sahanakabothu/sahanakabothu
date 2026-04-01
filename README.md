@@ -1,20 +1,24 @@
 # Hi, I'm Sahana 👋
 
 🎓 B.Tech IT Student  
-💻 Java | Python | SQL  
-🚀 Interested in Backend Development & AI  
+💻 Java | Python | SQL
+🚀 Aspiring Software Developer 
 
-## Projects
+## 🔥 Projects
 - Java Student Management System (CRUD)
+- Java Backend API Simulation
 - AutoTale – AI Image Captioning
-- Phishing Website Detection
 
-## Skills
+## 🛠 Skills
 - Java, Python
-- Data Structures & OOP
+- OOP & Data Structures
 - SQL & DBMS
 - Problem Solving
 
-## Connect with me
-LinkedIn: https://www.linkedin.com/in/sahana-kabothu-236979332/ 
+## 📈 Currently Learning
+- Backend Development
+- REST APIs
+- Spring Boot (Basics)
 
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/sahana-kabothu-236979332/
