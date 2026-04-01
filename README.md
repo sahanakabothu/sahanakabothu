@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sahana 👋
 
-<!--
-**sahanakabothu/sahanakabothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student  
+💻 Java | Python | SQL  
+🚀 Interested in Backend Development & AI  
 
-Here are some ideas to get you started:
+## Projects
+- Java Student Management System (CRUD)
+- AutoTale – AI Image Captioning
+- Phishing Website Detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java, Python
+- Data Structures & OOP
+- SQL & DBMS
+- Problem Solving
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/sahana-kabothu-236979332/## Hi there 👋
+
